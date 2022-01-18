@@ -1,8 +1,6 @@
 # Week 3 Day 1: Recursion Day One
 
-In class today, you'll be writing some code to get started with recursion. 
-
-Instructions for the in-class work and the homework can be found on Canvas. 
+In class today, you'll be writing some code to get started with recursion.
 
 <br />
 
