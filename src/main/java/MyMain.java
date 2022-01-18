@@ -31,7 +31,9 @@ public class MyMain {
     // of times lowercase 'x' shows up in a String
     // Examples:
     // countX("hix") => 1
-    // countX("xoxo") => 2
+    // countX("ix") => 1
+    // countX("x") => 1
+    // countX("") => 0
 
     // Hint: to make the subproblem smaller, make the String shorter!
     // Hint 2: multiple recursive cases might be helpful!
