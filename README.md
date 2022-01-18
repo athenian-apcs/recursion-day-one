@@ -1,6 +1,6 @@
-# Week 2 Day 2: 2D Array Advanced Iteration
+# Week 3 Day 1: Recursion Day One
 
-In class today, you'll be writing some more code to practice iterating through 2D arrays. 
+In class today, you'll be writing some code to get started with recursion. 
 
 Instructions for the in-class work and the homework can be found on Canvas. 
 
